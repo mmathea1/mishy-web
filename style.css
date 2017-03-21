@@ -1,0 +1,33 @@
+html,
+body{
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+.bg-image{
+	display: block;
+	background-image: url('src/Mingina-purp.jpeg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+	background-size: cover;
+}
+.text{
+	text-align: left;	
+}
+
+ h1.text{
+ 	padding: 150px 200px 50px 200px;
+ 	font-family: 'Niconne', cursive;
+	font-size: 100px;
+	font-weight: bolder;
+	color: #F2E416;
+
+	}
+ h3.text{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+	padding-left: 280px;
+	color: #F5B01E;
+	background-color: transparent;
+	}
