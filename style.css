@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Julius+Sans+One|Quicksand|Sacramento');
+
 html,
 body{
 	height: 100%;
@@ -6,28 +8,39 @@ body{
 }
 .bg-image{
 	display: block;
-	background-image: url('src/Mingina-purp.jpeg');
+	background-image: url('src/Mingina-tree.jpeg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center; 
 	background-size: cover;
+}
+
+.img img{
+	border-radius: 50%;
+	border-color: #FFFFFF;
+	border-width: 10px;
+	border-style: solid;
 }
 .text{
 	text-align: left;	
 }
 
  h1.text{
- 	padding: 150px 200px 50px 200px;
- 	font-family: 'Niconne', cursive;
+ 	padding: 50px 200px ;
+ 	font-family: 'Dancing Script', cursive;
 	font-size: 100px;
 	font-weight: bolder;
-	color: #F2E416;
+	color:#080808;
 
 	}
- h3.text{
-	font-family: 'Montserrat', sans-serif;
+ button.text{
+	font-family: 'Quicksand', sans-serif;
 	font-size: 40px;
-	padding-left: 280px;
-	color: #F5B01E;
-	background-color: transparent;
+	color: #E90D08;
+	}
+	.btn{
+		background-color: #CDA418;
+		border-style: solid;
+		
+
 	}
