@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Julius+Sans+One|Quicksand|Sacramento');
+
+html,
+body{
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	margin: 0, auto;
+}
+.bg-image{
+	display: block;
+	background-image: url('src/Mingina-tree.jpeg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+	background-size: cover;
+}
+
+.img img{
+	border-radius: 50%;
+	border-color: #FFFFFF;
+	border-width: 10px;
+	border-style: solid;
+}
+.text{
+	text-align: left;	
+}
+
+ h1.text{
+ 	padding: 50px 200px ;
+ 	font-family: 'Dancing Script', cursive;
+	font-size: 100px;
+	font-weight: bolder;
+	color:#080808;
+
+	}
+ button.text{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 40px;
+	color: #E90D08;
+	padding: 20px;
+	}
+	.btn{
+		background-color: #CDA418;
+		border-style: solid;
+		border-color:#F7C80A ;
+		border-width: 10px;
+		margin-left: 300px;
+
+
+	}

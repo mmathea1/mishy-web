@@ -1,0 +1,614 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"s",
+				"stroke"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"bl",
+				"button:block\tblock"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"fi",
+				"fill"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"b",
+				"bolder"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"nav",
+				"nav:pills\tpills"
+			],
+			[
+				"navbar",
+				"navbar:fixed:top\tfixed-top"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"na",
+				"nav:inline\tinline"
+			],
+			[
+				"carou",
+				"carousel\tcarousel"
+			],
+			[
+				"ca",
+				"carousel\tcarousel"
+			],
+			[
+				"conta",
+				"container-full"
+			],
+			[
+				"cont",
+				"slideshow-container"
+			],
+			[
+				"col",
+				"cards:columns\tcolumns"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"coll",
+				"navbar-collapse"
+			],
+			[
+				"cla",
+				"I-Class\tinit"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"F",
+				"FiraSans-Bold"
+			],
+			[
+				"Fi",
+				"FiraSans-Bold"
+			],
+			[
+				"Sa",
+				"Satisfy"
+			],
+			[
+				"S",
+				"Sans"
+			],
+			[
+				"tr",
+				"transform-origin"
+			],
+			[
+				"border-b",
+				"border-bottom-style"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"il",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"te",
+				"text-decoration-line"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"bu",
+				"button\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"onm",
+				"onmouseover\tAttr"
+			],
+			[
+				"on",
+				"onclick\tAttr"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"lo",
+				"loop\tAttr"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"onC",
+				"onclick\tAttr"
+			],
+			[
+				"vi",
+				"vid"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"ar",
+				"article\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"i",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 341.0,
+		"last_filter": "Snippet: ht",
+		"selected_items":
+		[
+			[
+				"Snippet: ht",
+				"Snippet: html5"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sideb",
+				"Side Bar: Refresh"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Picker: Insert Color"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 382.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 62319))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 51017))",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/mishy-web"
+	],
+	"file_history":
+	[
+		"/C/Users/Mingina/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/wamp64/www/Python projects/datetime.py",
+		"/C/Users/Mingina/Python projects/google-python-exercises/google-python-exercises",
+		"/C/wamp64/www/Python projects/flow.py",
+		"/C/Users/Mingina/Python projects/google-python-exercises/hello.py",
+		"/C/Users/Mingina/Python projects/google-python-exercises/hellos.py",
+		"/C/Users/Mingina/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Mingina/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Mingina/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/Mingina/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Mingina/Downloads/bootsite.html",
+		"/C/Users/Mingina/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Mingina/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+		"/C/wamp64/www/LearnGit/README.md",
+		"/C/wamp64/www/LearnGit/src/fixing code.txt",
+		"/C/wamp64/www/LearnGit/src/WA0017.jpg",
+		"/C/Users/Mingina/Downloads/Documents/git website resources/examples-bootstrap/bootstrap-slider.html",
+		"/C/wamp64/www/LearnGit/js/slideshow.js",
+		"/C/Users/Mingina/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/wamp64/www/my-site/assets/css/bootstrap-theme.css",
+		"/C/wamp64/www/CISY310/CISY310_JFrame.java",
+		"/C/wamp64/www/CISY310/TextDemo.java",
+		"/C/wamp64/www/CISY310/oct6 class exercise.java",
+		"/C/Users/Mingina/Documents/Workspace/beKonnect/Site Assests/bekonnect/style.css",
+		"/C/Users/Mingina/Documents/Workspace/beKonnect/Site Assests/bekonnect/function.php",
+		"/C/Users/Mingina/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/wamp64/www/tutorial free css app/index.html",
+		"/C/wamp64/www/minty/css/style.css",
+		"/C/wamp64/www/minty/index.html",
+		"/C/wamp64/www/tutorial free css app/css/templatemo_style.css",
+		"/C/Users/Mingina/Documents/A_school stuff/HTML5/html5-boilerplate_v5.3.0/index.html",
+		"/C/wamp64/www/wordpress/wp-config.php",
+		"/C/wamp64/www/my-site/css/style.css",
+		"/C/wamp64/www/tutorial free css app/elements.html",
+		"/D/scroll-effects/scroll-effects/assets/demo.css",
+		"/C/wamp64/www/my-site/index3.html",
+		"/D/scroll-effects/scroll-effects/index.html",
+		"/C/wamp64/www/my-site/index2.html",
+		"/C/wamp64/www/my-site/index.html",
+		"/C/wamp64/www/my-site/css/default.css",
+		"/C/wamp64/www/random.html",
+		"/C/wamp64/www/materialize.html",
+		"/C/wamp64/www/my-site/index4.html",
+		"/C/Users/Mingina/Downloads/WordPress/landingzero_334/css/styles.css",
+		"/C/wamp64/www/bootstrap.html",
+		"/C/wamp64/www/MishyMinty/css/style2.css",
+		"/C/wamp64/www/MishyMinty/index2.html",
+		"/C/wamp64/www/MishyMinty/homepage.html",
+		"/C/Users/Mingina/Documents/Workspace/My Site/css/homepage.css",
+		"/C/Users/Mingina/Documents/A_school stuff/HTML5/HTML5 Demo_ Drag and drop, automatic upload.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"videos",
+			"scroll-effect",
+			".scroll-effect",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "mishy-web.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
